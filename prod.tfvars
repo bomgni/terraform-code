@@ -1,5 +1,0 @@
-ami-type = "ami-04581fbf744a7d11f"
-instance-type = "t2.micro"
-instance-name = "Postgresql-server-prod"
-env = "prod"
-team = "Prod-team"
